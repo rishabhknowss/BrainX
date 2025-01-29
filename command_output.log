@@ -1,0 +1,11 @@
+
+Command: shopt -s histappend
+Output:
+
+Exit Code: 0
+----
+Command: pwd
+Output:
+/home/rishabh/codewizard/frontend
+Exit Code: 0
+----
